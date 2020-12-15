@@ -1,2 +1,2 @@
 # Calculator
-Static calculator with neumorphic design using CSS.
+Static calculator with neumorphic UI using CSS.
